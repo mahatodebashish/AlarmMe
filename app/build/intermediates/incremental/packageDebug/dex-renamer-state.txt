@@ -1,0 +1,4 @@
+#Mon Jun 05 17:40:57 IST 2017
+base.0=D\:\\JUNE_05-06-2017\\AlarmMe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\JUNE_05-06-2017\\AlarmMe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

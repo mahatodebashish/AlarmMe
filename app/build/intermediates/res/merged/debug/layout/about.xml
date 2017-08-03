@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:padding="4dip"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+
+  <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:paddingTop="16dip"
+    android:textSize="24dip"
+    android:textStyle="bold"
+    android:text="AlarmMe" />
+
+  <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:paddingTop="16dip"
+    android:textSize="16dip"
+    android:text="" />
+
+  <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:paddingTop="16dip"
+    android:textSize="20dip"
+    android:text="Copyright \u00a9 2017 EDO Informatics Pvt Ltd" />
+
+  <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:paddingTop="8dip"
+    android:textSize="16dip"
+    android:text="info@edoinformatics.com" />
+  <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_gravity="center"
+      android:paddingTop="8dip"
+      android:textSize="16dip"
+      android:text="http://www.edoinformatics.com" />
+
+
+</LinearLayout>
+
